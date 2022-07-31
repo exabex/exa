@@ -1,0 +1,18 @@
+{
+    "name": "Exabex",
+    "version": "0.1.0",
+    "description": "Open Source Cryptocurrency Exchange",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/exabex/exabex.git"
+    },
+    "dependencies": {
+        "cors": "latest",
+        "debug": "latest",
+        "ejs-lint": "^0.3.0",
+        "express": "latest",
+        "nodemailer": "latest",
+        "sqlite3": "^4.1.1",
+        "ws": "latest"
+    }
+}
